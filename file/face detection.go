@@ -8,7 +8,7 @@ import (
 func main() {
 	classifier := gocv.NewCascadeClassifier()
 	defer classifier.Close()
-	blueColor := color.RGBA{R: 0, G: 0, B: 255, A: 255} // Tam opak mavi renk
+	blueColor := color.RGBA{R: 0, G: 0, B: 255, A: 255}
 
 	if !classifier.Load("/Users/araz/Desktop/openCVGolang/haarcascade_frontalface_default.xml") {
 		println("Error reading cascade file")
