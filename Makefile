@@ -3,5 +3,5 @@ run:
 
 git:
 	git add .
-	git commit -m "Build"
+	git commit -m "Face Detection"
 	git push -u origin main
