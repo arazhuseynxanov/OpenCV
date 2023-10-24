@@ -3,5 +3,5 @@ run:
 
 git:
 	git add .
-	git commit -m "Face Detection"
+	git commit -m "OpenCV Installation"
 	git push -u origin main
