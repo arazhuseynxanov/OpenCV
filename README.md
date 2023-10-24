@@ -1,7 +1,7 @@
 Installing
 Install the GoCV package:
 
-![gocvlogo.jpg](..%2F..%2FDownloads%2Fgocvlogo.jpg)
+![gocvlogo](https://github.com/arazhuseynxanov/OpenCV/assets/103748582/0254b3f5-3004-409b-bbdd-695e9c56f7ce)
 
 
 go get -u -d gocv.io/x/gocv
